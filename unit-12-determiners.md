@@ -8,107 +8,144 @@ The types of determiners are articles, demonstrative determiners, distributive d
 
 
 
-## 🔹 7 types of determiners
+## 🔹 9 types of determiners
 
-### 1️⃣ Articles (Tanımlıklar)
+1️⃣ Articles (Tanımlıklar)
 
-En temel determiner’lar
+a
 
-| Determiner | Kullanım                     |
-| ---------- | ---------------------------- |
-| **a / an** | indefinite                   |
-| **the**    | definite article             |
+an
 
-The car was parked in front of the dilapidated brick building.
-Working from a café is a great option—if you order food or coffee and can find a table near an electrical outlet.
+the
 
+2️⃣ Demonstrative Determiners (İşaret)
 
----
+this
 
-### 2️⃣ Demonstratives determiners
+that
 
-**Bu, şu, bunlar, şunlar**
+these
 
-| Tekil    | Çoğul     |
-| -------- | --------- |
-| **this** | **these** |
-| **that** | **those** |
+those
 
-**Örnek:**
+3️⃣ Possessive Determiners (Sahiplik)
 
-* *This phone is expensive.*
-* *Those shoes are mine.*
+my
 
----
+your
 
-### 3️⃣ Possessive Determiners (Sahiplik)
+his
 
-**Benim, senin, onun…**
+her
 
-| Kişi | Determiner |
-| ---- | ---------- |
-| I    | **my**     |
-| you  | **your**   |
-| he   | **his**    |
-| she  | **her**    |
-| it   | **its**    |
-| we   | **our**    |
-| they | **their**  |
+its
 
-⚠️ **my ≠ mine**
+our
 
-* *This is **my** bag.* ✅
-* *This bag is **mine*** ✅
+their
 
----
+whose
 
-### 4️⃣ Quantifiers (Miktar Belirleyicileri)
+4️⃣ Quantifiers (Miktar Belirleyiciler)
+🔹 Genel
 
-**Ne kadar / kaç tane**
+some
 
-| Determiner       | Kullanım          |
-| ---------------- | ----------------- |
-| **some**         | biraz             |
-| **any**          | hiç / herhangi    |
-| **many**         | sayılabilir (çok) |
-| **much**         | sayılamaz (çok)   |
-| **a lot of**     | çok               |
-| **few / little** | az                |
+any
 
-**Örnek:**
+no
 
-* *I have **some** friends.*
-* *Do you have **any** money?*
-* *There are **many** people.*
-* *There is **much** water.*
+enough
 
----
+plenty of
 
-### 5️⃣ Numbers (Sayılar)
+a lot of / lots of
 
-* **one, two, three…**
-* **first, second…**
+🔹 Sayılabilir
 
-**Örnek:**
+many
 
-* *I have **two** brothers.*
-* *My **first** job was hard.*
+few
 
----
+a few
 
-### 6️⃣ Other Determiners (Diğerleri)
+several
 
-| Determiner  | Anlam          |
-| ----------- | -------------- |
-| **each**    | her biri       |
-| **every**   | her            |
-| **both**    | ikisi de       |
-| **either**  | ikisinden biri |
-| **neither** | ikisi de değil |
+numerous
 
-**Örnek:**
+🔹 Sayılamaz
 
-* *Every student passed.*
-* *Both cars are expensive.*
+much
 
----
+little
+
+a little
+
+5️⃣ Numbers (Sayı Belirleyiciler)
+🔹 Cardinal (Asıl sayılar)
+
+one, two, three, …
+
+🔹 Ordinal (Sıra sayıları)
+
+first
+
+second
+
+third
+
+last
+
+next
+
+6️⃣ Distributive Determiners (Dağıtıcı)
+
+each
+
+every
+
+either
+
+neither
+
+both
+
+7️⃣ Interrogative Determiners (Soru)
+
+which
+
+what
+
+whose
+
+📌 (İsimle kullanıldığında determiner olur)
+
+Which book?
+
+Whose car?
+
+8️⃣ Relative / Limiting Determiners
+
+(Bazı gramerlerde ayrı başlık)
+
+which
+
+what
+
+whatever
+
+whichever
+
+9️⃣ Other / Limiting Determiners (Sınırlandırıcılar)
+
+same
+
+other
+
+another
+
+such
+
+certain
+
+various
