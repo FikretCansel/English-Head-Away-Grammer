@@ -1,4 +1,14 @@
-## 🔹 Determiner Türleri
+
+What is a determiner?
+A determiner is a word that appears before a noun and specifies something about the number, definiteness, or ownership of the noun. They are also called limiting adjectives.
+
+What are the types of determiners?
+The types of determiners are articles, demonstrative determiners, distributive determiners, interrogative determiners, possessive determiners, quantifying determiners, and numbers and relative determiners.
+
+
+
+
+## 🔹 7 types of determiners
 
 ### 1️⃣ Articles (Tanımlıklar)
 
@@ -6,17 +16,16 @@ En temel determiner’lar
 
 | Determiner | Kullanım                     |
 | ---------- | ---------------------------- |
-| **a / an** | Belirsiz, ilk kez bahsedilen |
-| **the**    | Belirli, bilinen             |
+| **a / an** | indefinite                   |
+| **the**    | definite article             |
 
-**Örnek:**
+The car was parked in front of the dilapidated brick building.
+Working from a café is a great option—if you order food or coffee and can find a table near an electrical outlet.
 
-* *I saw **a** dog.* (hangi köpek belli değil)
-* *The dog was barking.* (o köpek)
 
 ---
 
-### 2️⃣ Demonstratives (İşaret Belirleyicileri)
+### 2️⃣ Demonstratives determiners
 
 **Bu, şu, bunlar, şunlar**
 
@@ -103,43 +112,3 @@ En temel determiner’lar
 * *Both cars are expensive.*
 
 ---
-
-## 🔹 Determiner Kuralları (Çok Önemli)
-
-### ❗ 1. Bir isimde **tek determiner** olur
-
-❌ *my a car*
-✅ *my car*
-
----
-
-### ❗ 2. Çoğul ve sayılamaz isimlerde **a/an olmaz**
-
-❌ *a water*
-❌ *a cars*
-✅ *some water*
-✅ *cars*
-
----
-
-### ❗ 3. Determiner + adjective + noun
-
-**the big house**
-
----
-
-## 🔹 Mini Özet
-
-* Determiner → **isimden önce gelir**
-* İsmi sınırlar, netleştirir
-* En yaygınları: **a/an, the, my, this, some, many**
-
----
-
-İstersen bir sonraki adımda:
-
-* 🔹 **determiner vs pronoun farkı**
-* 🔹 **çok çıkan sınav soruları**
-* 🔹 **bol örnek + mini test**
-
-Hangisini istiyorsun? 😊
